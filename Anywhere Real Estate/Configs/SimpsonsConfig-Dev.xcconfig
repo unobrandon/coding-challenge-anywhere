@@ -1,0 +1,21 @@
+//
+//  SimpsonsConfig.xcconfig
+//  Simpsons
+//
+//  Created by Brandon Shaw on 4/24/23.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+BUILD_NUMBER = 1.0
+
+MARKETING_VERSION = 0.0.1
+
+DISPLAY_NAME = Simpsons Dev
+
+PRODUCT_BUNDLE_IDENTIFIER = com.sample.simpsonsviewerdev
+
+ICON_ASSET = AppIcon-Simpsons-Dev
+
+API_QUERY = simpsons
